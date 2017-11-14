@@ -1,1 +1,2 @@
 To jest plik testowy
+wlaza kotek na plotek i mruga
